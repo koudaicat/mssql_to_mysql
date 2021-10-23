@@ -1,0 +1,17 @@
+{
+    "destination_db": {
+        "host": "",
+        "port": ,
+        "user": "",
+        "password": "",
+        "database": "",
+        "table":""},
+    "source_db":{
+        "host": "",
+        "port": ,
+        "user": "",
+        "password": "",
+        "database": "",
+        "table":""
+    }
+}
