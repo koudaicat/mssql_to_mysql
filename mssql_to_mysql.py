@@ -13,11 +13,7 @@ import traceback
 logger.add("record.log")
 
 # 远程mysql
-# remote_ip = "49.234.123.245"
-# remote_port = 3306
-# remote_user = "root"
-# remote_databases = "infodb"
-# remote_pwd = "123456"
+
 
 with open("./properties.json", "r", encoding="utf-8") as f:
     db = json.loads(f.read())
